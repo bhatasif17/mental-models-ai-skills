@@ -1,0 +1,12 @@
+{
+  "skill": "automation-opportunity-finder",
+  "input": {
+    "process": "Client onboarding for a software agency",
+    "current_steps": "Discovery call, proposal, kickoff, delivery",
+    "tools": "Email, Notion, Google Drive",
+    "goal": "Make it repeatable"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

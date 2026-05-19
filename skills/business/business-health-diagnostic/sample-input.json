@@ -1,0 +1,12 @@
+{
+  "skill": "business-health-diagnostic",
+  "input": {
+    "company_stage": "early services business",
+    "problem": "Not enough qualified leads",
+    "revenue": "early-stage",
+    "goal": "Find the bottleneck and 90-day plan"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

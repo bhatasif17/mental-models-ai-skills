@@ -1,19 +1,16 @@
-# CLAUDE.md
+# AI Skill Repository Instructions
 
-This repository contains reusable AI skills. When asked to use a skill:
+This repo contains portable production AI skills. When a user asks to use a skill:
 
-1. Locate the relevant `skills/<category>/<slug>/SKILL.md` file.
-2. Follow the skill instructions exactly.
-3. Do not summarize or reproduce copyrighted books.
-4. Produce practical, ready-to-use outputs.
-5. If the user gives incomplete context, make reasonable assumptions and clearly state them.
-6. Keep advice ethical and professional.
+1. Locate the relevant `skills/<category>/<slug>/SKILL.md`.
+2. Follow the skill's production contract exactly.
+3. Use the user's situation as runtime input.
+4. Produce ready-to-use outputs, not generic summaries.
+5. Do not summarize or reproduce copyrighted books.
+6. State assumptions and proceed when context is sufficient.
 
-Preferred skill selection examples:
+Before editing skills, run:
 
-- Negotiation, pricing, salary, client pushback: `skills/sales/negotiation-reply-coach/SKILL.md`
-- Startup validation: `skills/startup/mvp-experiment-designer/SKILL.md`
-- Customer interviews: `skills/startup/customer-discovery-interviewer/SKILL.md`
-- Website conversion: `skills/ux/website-clarity-auditor/SKILL.md`
-- Habits and discipline: `skills/productivity/habit-architect/SKILL.md`
-- Messy notes to action: `skills/productivity/chaos-to-action-processor/SKILL.md`
+```bash
+python -m skillpack validate
+```

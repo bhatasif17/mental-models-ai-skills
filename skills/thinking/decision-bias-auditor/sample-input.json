@@ -1,0 +1,12 @@
+{
+  "skill": "decision-bias-auditor",
+  "input": {
+    "decision": "Focus on services or build a SaaS product",
+    "options": "Accepire services, AxiomFlow product",
+    "fear": "Missing a big opportunity",
+    "goal": "Make a clear decision"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

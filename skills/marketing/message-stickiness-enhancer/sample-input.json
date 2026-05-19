@@ -1,0 +1,12 @@
+{
+  "skill": "message-stickiness-enhancer",
+  "input": {
+    "offer": "White-label AI integration services for GCC agencies",
+    "audience": "Agency owners",
+    "main_objection": "They worry about delivery risk",
+    "goal": "Improve persuasion ethically"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

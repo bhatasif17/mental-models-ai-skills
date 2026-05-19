@@ -1,0 +1,12 @@
+{
+  "skill": "human-message-rewriter",
+  "input": {
+    "message": "I still have not received the payment. Please pay asap.",
+    "recipient": "Client",
+    "goal": "Get paid while preserving the relationship",
+    "tone": "professional and firm"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

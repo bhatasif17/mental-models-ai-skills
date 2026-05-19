@@ -1,0 +1,12 @@
+{
+  "skill": "asset-expense-coach",
+  "input": {
+    "decision": "Spend money on product development or conserve cash",
+    "income": "variable",
+    "risk_tolerance": "medium",
+    "goal": "Think clearly about money decision"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

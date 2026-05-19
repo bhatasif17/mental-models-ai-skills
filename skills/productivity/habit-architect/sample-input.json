@@ -1,0 +1,12 @@
+{
+  "skill": "habit-architect",
+  "input": {
+    "goal": "Improve consistency and execution",
+    "current_routine": "Fragmented workday with frequent distractions",
+    "obstacle": "Lack of structure",
+    "available_time": "45 minutes per day"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

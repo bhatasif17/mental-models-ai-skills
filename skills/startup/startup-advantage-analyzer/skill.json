@@ -1,0 +1,239 @@
+{
+  "id": "startup-advantage-analyzer",
+  "name": "Startup Advantage Analyzer",
+  "slug": "startup-advantage-analyzer",
+  "version": "1.1.0",
+  "category": "startup",
+  "description": "Evaluate whether a startup idea has a real strategic edge or is just another product.",
+  "inspired_by": "Zero to One",
+  "license_notice": "Original workflow inspired by a general problem domain. This skill does not reproduce, summarize, or replace any copyrighted book.",
+  "risk_level": "low",
+  "inputs": [
+    {
+      "name": "idea",
+      "description": "User-provided context for idea.",
+      "required": false
+    },
+    {
+      "name": "competitors",
+      "description": "User-provided context for competitors.",
+      "required": false
+    },
+    {
+      "name": "target_market",
+      "description": "User-provided context for target market.",
+      "required": false
+    },
+    {
+      "name": "unique_insight",
+      "description": "User-provided context for unique insight.",
+      "required": false
+    },
+    {
+      "name": "distribution_plan",
+      "description": "User-provided context for distribution plan.",
+      "required": false
+    },
+    {
+      "name": "differentiation_score",
+      "description": "User-provided context for differentiation score.",
+      "required": false
+    },
+    {
+      "name": "competitive_risks",
+      "description": "User-provided context for competitive risks.",
+      "required": false
+    },
+    {
+      "name": "unique_angle",
+      "description": "User-provided context for unique angle.",
+      "required": false
+    },
+    {
+      "name": "positioning",
+      "description": "User-provided context for positioning.",
+      "required": false
+    },
+    {
+      "name": "strategic_risks",
+      "description": "User-provided context for strategic risks.",
+      "required": false
+    },
+    {
+      "name": "Do_not_summarize,_quote,_reproduce,_or_imitate_copyrighted_books.",
+      "description": "User-provided context for Do not summarize, quote, reproduce, or imitate copyrighted books..",
+      "required": false
+    },
+    {
+      "name": "Use_the_inspiration_only_as_a_broad_problem_domain.",
+      "description": "User-provided context for Use the inspiration only as a broad problem domain..",
+      "required": false
+    },
+    {
+      "name": "Produce_original,_practical,_user-specific_outputs.",
+      "description": "User-provided context for Produce original, practical, user-specific outputs..",
+      "required": false
+    },
+    {
+      "name": "Be_ethical:_do_not_help_deceive,_manipulate,_exploit,_or_coerce_people.",
+      "description": "User-provided context for Be ethical: do not help deceive, manipulate, exploit, or coerce people..",
+      "required": false
+    },
+    {
+      "name": "Ask_for_missing_context_only_when_the_task_cannot_be_completed_with_a_reasonable_assumption.",
+      "description": "User-provided context for Ask for missing context only when the task cannot be completed with a reasonable assumption..",
+      "required": false
+    },
+    {
+      "name": "When_uncertain,_clearly_state_assumptions_and_give_a_useful_first_version.",
+      "description": "User-provided context for When uncertain, clearly state assumptions and give a useful first version..",
+      "required": false
+    },
+    {
+      "name": "Start_by_extracting_the_user's_objective,_context,_constraints,_and_success_criteria.",
+      "description": "User-provided context for Start by extracting the user's objective, context, constraints, and success criteria..",
+      "required": false
+    },
+    {
+      "name": "If_key_information_is_missing,_make_the_smallest_safe_assumption_and_label_it_under_`Assumptions`.",
+      "description": "User-provided context for If key information is missing, make the smallest safe assumption and label it under `Assumptions`..",
+      "required": false
+    },
+    {
+      "name": "Produce_direct_artifacts_the_user_can_copy,_send,_schedule,_test,_or_implement.",
+      "description": "User-provided context for Produce direct artifacts the user can copy, send, schedule, test, or implement..",
+      "required": false
+    },
+    {
+      "name": "Use_clear_sections_and_avoid_vague_coaching_language.",
+      "description": "User-provided context for Use clear sections and avoid vague coaching language..",
+      "required": false
+    },
+    {
+      "name": "Keep_the_output_original;_never_provide_a_book_summary_as_the_final_product.",
+      "description": "User-provided context for Keep the output original; never provide a book summary as the final product..",
+      "required": false
+    },
+    {
+      "name": "Specific_to_the_user's_situation",
+      "description": "User-provided context for Specific to the user's situation.",
+      "required": false
+    },
+    {
+      "name": "Actionable_within_24_hours",
+      "description": "User-provided context for Actionable within 24 hours.",
+      "required": false
+    },
+    {
+      "name": "Structured_enough_to_be_reused_by_another_person_or_system",
+      "description": "User-provided context for Structured enough to be reused by another person or system.",
+      "required": false
+    },
+    {
+      "name": "Ethical_and_non-manipulative",
+      "description": "User-provided context for Ethical and non-manipulative.",
+      "required": false
+    },
+    {
+      "name": "Honest_about_uncertainty,_risks,_and_assumptions",
+      "description": "User-provided context for Honest about uncertainty, risks, and assumptions.",
+      "required": false
+    },
+    {
+      "name": "...",
+      "description": "User-provided context for ....",
+      "required": false
+    },
+    {
+      "name": "[_]_...",
+      "description": "User-provided context for [ ] ....",
+      "required": false
+    },
+    {
+      "name": "...",
+      "description": "User-provided context for ....",
+      "required": false
+    },
+    {
+      "name": "The_answer_solves_the_actual_user_problem,_not_just_the_visible_request.",
+      "description": "User-provided context for The answer solves the actual user problem, not just the visible request..",
+      "required": false
+    },
+    {
+      "name": "The_answer_includes_at_least_one_ready-to-use_artifact.",
+      "description": "User-provided context for The answer includes at least one ready-to-use artifact..",
+      "required": false
+    },
+    {
+      "name": "The_answer_avoids_copyrighted_summaries_or_imitation.",
+      "description": "User-provided context for The answer avoids copyrighted summaries or imitation..",
+      "required": false
+    },
+    {
+      "name": "The_advice_is_safe,_ethical,_and_realistic.",
+      "description": "User-provided context for The advice is safe, ethical, and realistic..",
+      "required": false
+    },
+    {
+      "name": "The_next_action_is_concrete.",
+      "description": "User-provided context for The next action is concrete..",
+      "required": false
+    }
+  ],
+  "outputs": [
+    "differentiation score",
+    "competitive risks",
+    "unique angle",
+    "positioning",
+    "strategic risks",
+    "Do not summarize, quote, reproduce, or imitate copyrighted books.",
+    "Use the inspiration only as a broad problem domain.",
+    "Produce original, practical, user-specific outputs.",
+    "Be ethical: do not help deceive, manipulate, exploit, or coerce people.",
+    "Ask for missing context only when the task cannot be completed with a reasonable assumption.",
+    "When uncertain, clearly state assumptions and give a useful first version.",
+    "Start by extracting the user's objective, context, constraints, and success criteria.",
+    "If key information is missing, make the smallest safe assumption and label it under `Assumptions`.",
+    "Produce direct artifacts the user can copy, send, schedule, test, or implement.",
+    "Use clear sections and avoid vague coaching language.",
+    "Keep the output original; never provide a book summary as the final product.",
+    "Specific to the user's situation",
+    "Actionable within 24 hours",
+    "Structured enough to be reused by another person or system",
+    "Ethical and non-manipulative",
+    "Honest about uncertainty, risks, and assumptions",
+    "...",
+    "[ ] ...",
+    "...",
+    "The answer solves the actual user problem, not just the visible request.",
+    "The answer includes at least one ready-to-use artifact.",
+    "The answer avoids copyrighted summaries or imitation.",
+    "The advice is safe, ethical, and realistic.",
+    "The next action is concrete."
+  ],
+  "workflow": [
+    "Extract objective, context, constraints, audience, and success criteria.",
+    "State assumptions when context is incomplete.",
+    "Diagnose the real bottleneck behind the request.",
+    "Generate a strategy tailored to the user's situation.",
+    "Produce ready-to-use outputs in the requested format.",
+    "Add mistakes to avoid, quality checks, and one next action."
+  ],
+  "guardrails": [
+    "Do not summarize, quote, reproduce, or imitate copyrighted books.",
+    "Use the inspiration only as a broad problem domain; produce an original workflow.",
+    "Do not present financial, legal, medical, or psychological guidance as professional advice.",
+    "Do not manipulate, deceive, exploit, coerce, or help the user harm others.",
+    "State assumptions clearly when context is incomplete and still provide a useful first version.",
+    "Prefer specific, ready-to-use outputs over generic motivation or theory."
+  ],
+  "files": {
+    "skill": "SKILL.md",
+    "readme": "README.md",
+    "examples": "examples.md",
+    "manifest": "skill.json",
+    "sample_input": "sample-input.json"
+  },
+  "production_ready": true,
+  "last_updated": "2026-05-19"
+}

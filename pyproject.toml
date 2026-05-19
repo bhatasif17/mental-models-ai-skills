@@ -1,0 +1,11 @@
+[project]
+name = "mental-models-ai-skills"
+version = "1.1.0"
+description = "Production-ready portable AI skill library inspired by timeless business, productivity, and decision-making ideas."
+requires-python = ">=3.9"
+
+[project.scripts]
+skillpack = "skillpack.__main__:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

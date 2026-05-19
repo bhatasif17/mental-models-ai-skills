@@ -1,0 +1,12 @@
+{
+  "skill": "website-clarity-auditor",
+  "input": {
+    "page": "ClaimsGuard Excel upload page",
+    "user_goal": "Upload claims and understand validation status",
+    "audience": "insurance operations team",
+    "goal": "Find UX issues"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

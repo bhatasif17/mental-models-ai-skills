@@ -1,66 +1,51 @@
-# Mental Models AI Skills Library
+# Mental Models AI Skills
 
-A GitHub-ready collection of 30 original AI skills inspired by the problem domains of bestselling business, productivity, sales, startup, marketing, UX, finance, and personal-growth books.
+A production-ready library of 30 portable AI skills for productivity, sales, startup validation, marketing, UX, decision-making, finance, operations, and personal growth.
 
-These are **not book summaries**. They are practical AI workflows that help users apply useful thinking patterns to real tasks.
+These are not book-summary bots. Each skill is an original AI workflow inspired by a broad, high-value problem domain.
 
-## What is included
-
-- 30 skills, each packaged with a `SKILL.md` file
-- Category folders: productivity, startup, sales, marketing, UX, finance, operations, growth, thinking, strategy, business, product, communication, content
-- `skills-index.json` for apps or marketplaces
-- `categories.json` for navigation
-- Claude adapter files
-- Codex adapter files
-- Gemini adapter files
-- Install scripts for local use
-
-## Install options
-
-### Claude / Claude Code style
-Claude skills are commonly stored as `.claude/skills/*/SKILL.md`. Run:
+## Quick start
 
 ```bash
-bash scripts/install_claude.sh
+unzip mental-models-ai-skills-production.zip
+cd mental-models-ai-skills
+python -m skillpack validate
+python -m skillpack list
+python -m skillpack render negotiation-reply-coach
 ```
 
-### Codex style
-Codex supports agent skills built around `SKILL.md` bundles and can also use `AGENTS.md` for repository guidance. Run:
+## Repository contents
 
-```bash
-bash scripts/install_codex.sh
+- `skills/` — 30 production-ready skill folders
+- `skillpack/` — small CLI for listing, validating, and rendering skills
+- `schemas/` — JSON schemas for manifests and runtime requests
+- `tests/` — pytest checks for CI
+- `.github/workflows/validate.yml` — GitHub Actions validation
+- `docs/` — production and integration docs
+- `AGENTS.md`, `CLAUDE.md`, `GEMINI.md` — assistant context files
+
+## Skill folder contract
+
+Each skill contains:
+
+- `SKILL.md` — operational prompt
+- `skill.json` — machine-readable manifest
+- `sample-input.json` — sample runtime payload
+- `README.md` — usage notes
+- `examples.md` — simple examples
+
+## Use with an AI assistant
+
+```text
+Use the skill at skills/sales/negotiation-reply-coach/SKILL.md.
+Follow its production contract.
+Here is my input: [paste situation]
 ```
 
-### Gemini CLI style
-Gemini CLI commonly uses `GEMINI.md` context files. Run:
+## Production status
 
-```bash
-bash scripts/install_gemini.sh
-```
+Ready for GitHub, internal assistant use, prompt orchestration, and app integration. It is not a hosted SaaS product by itself.
 
-## Recommended usage
+## IP notice
 
-Ask your AI assistant:
-
-> Use the `negotiation-reply-coach` skill to help me respond to this client message...
-
-or:
-
-> Use the `website-clarity-auditor` skill to audit this homepage copy...
-
-## Legal and ethical note
-
-This repository does not reproduce book content, chapters, frameworks, worksheets, or copyrighted text. The skills are original workflows inspired by broad problem categories such as habit design, decision quality, sales discovery, UX clarity, and startup validation.
-
-## Best first skills to productize
-
-1. Negotiation Reply Coach
-2. Website Clarity Auditor
-3. MVP Experiment Designer
-4. Customer Discovery Interviewer
-5. B2B Insight Seller
-6. Habit Architect
-7. Chaos-to-Action Processor
-8. Category Positioning Coach
-9. SOP Builder
-10. Shareability Scorer
+The skills are original workflows inspired by general problem domains. They do not reproduce, summarize, or replace copyrighted books.

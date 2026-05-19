@@ -1,0 +1,12 @@
+{
+  "skill": "retention-loop-designer",
+  "input": {
+    "product": "ClaimsGuard",
+    "user_type": "claims auditor",
+    "retention_problem": "Users may only upload files occasionally",
+    "goal": "Design a useful repeat loop"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

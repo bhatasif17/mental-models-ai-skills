@@ -1,0 +1,12 @@
+{
+  "skill": "startup-advantage-analyzer",
+  "input": {
+    "idea": "AI claim validation tool for insurers",
+    "target_customer": "Insurance claim audit teams",
+    "assumptions": "They use Excel and need ICD validation",
+    "goal": "Validate before building"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

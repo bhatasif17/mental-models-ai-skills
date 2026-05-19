@@ -5,7 +5,10 @@
     "category": "productivity",
     "description": "Build tiny, repeatable habit systems from user goals, routines, friction points, and recovery needs.",
     "inspired_by": "Atomic Habits",
-    "path": "skills/productivity/habit-architect/SKILL.md"
+    "path": "skills/productivity/habit-architect/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/productivity/habit-architect/skill.json",
+    "production_ready": true
   },
   {
     "name": "Life OS Planner",
@@ -13,7 +16,10 @@
     "category": "productivity",
     "description": "Convert roles, responsibilities, values, and goals into a weekly personal operating system.",
     "inspired_by": "The 7 Habits of Highly Effective People",
-    "path": "skills/productivity/life-os-planner/SKILL.md"
+    "path": "skills/productivity/life-os-planner/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/productivity/life-os-planner/skill.json",
+    "production_ready": true
   },
   {
     "name": "Human Message Rewriter",
@@ -21,7 +27,10 @@
     "category": "communication",
     "description": "Rewrite difficult messages so they are clear, warm, respectful, and more likely to get a useful response.",
     "inspired_by": "How to Win Friends and Influence People",
-    "path": "skills/communication/human-message-rewriter/SKILL.md"
+    "path": "skills/communication/human-message-rewriter/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/communication/human-message-rewriter/skill.json",
+    "production_ready": true
   },
   {
     "name": "Focus Block Designer",
@@ -29,7 +38,10 @@
     "category": "productivity",
     "description": "Design realistic deep-work schedules around energy, distractions, deadlines, and shallow-work batching.",
     "inspired_by": "Deep Work",
-    "path": "skills/productivity/focus-block-designer/SKILL.md"
+    "path": "skills/productivity/focus-block-designer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/productivity/focus-block-designer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Chaos-to-Action Processor",
@@ -37,7 +49,10 @@
     "category": "productivity",
     "description": "Turn brain dumps, messy notes, or emails into next actions, projects, waiting items, and scheduled work.",
     "inspired_by": "Getting Things Done",
-    "path": "skills/productivity/chaos-to-action-processor/SKILL.md"
+    "path": "skills/productivity/chaos-to-action-processor/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/productivity/chaos-to-action-processor/skill.json",
+    "production_ready": true
   },
   {
     "name": "Automation Opportunity Finder",
@@ -45,7 +60,10 @@
     "category": "operations",
     "description": "Audit recurring work and identify what to eliminate, delegate, automate, or systemize.",
     "inspired_by": "The 4-Hour Workweek",
-    "path": "skills/operations/automation-opportunity-finder/SKILL.md"
+    "path": "skills/operations/automation-opportunity-finder/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/operations/automation-opportunity-finder/skill.json",
+    "production_ready": true
   },
   {
     "name": "SOP Builder",
@@ -53,7 +71,10 @@
     "category": "operations",
     "description": "Turn repeated business processes into clear SOPs, checklists, roles, and quality controls.",
     "inspired_by": "The E-Myth Revisited",
-    "path": "skills/operations/sop-builder/SKILL.md"
+    "path": "skills/operations/sop-builder/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/operations/sop-builder/skill.json",
+    "production_ready": true
   },
   {
     "name": "MVP Experiment Designer",
@@ -61,7 +82,10 @@
     "category": "startup",
     "description": "Design lean validation experiments for startup ideas before users overbuild.",
     "inspired_by": "The Lean Startup",
-    "path": "skills/startup/mvp-experiment-designer/SKILL.md"
+    "path": "skills/startup/mvp-experiment-designer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/startup/mvp-experiment-designer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Startup Advantage Analyzer",
@@ -69,7 +93,10 @@
     "category": "startup",
     "description": "Evaluate whether a startup idea has a real strategic edge or is just another product.",
     "inspired_by": "Zero to One",
-    "path": "skills/startup/startup-advantage-analyzer/SKILL.md"
+    "path": "skills/startup/startup-advantage-analyzer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/startup/startup-advantage-analyzer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Business Health Diagnostic",
@@ -77,7 +104,10 @@
     "category": "business",
     "description": "Diagnose whether a business is blocked by strategy, focus, people, execution, or market issues.",
     "inspired_by": "Good to Great",
-    "path": "skills/business/business-health-diagnostic/SKILL.md"
+    "path": "skills/business/business-health-diagnostic/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/business/business-health-diagnostic/skill.json",
+    "production_ready": true
   },
   {
     "name": "Decision Bias Auditor",
@@ -85,7 +115,10 @@
     "category": "thinking",
     "description": "Audit important decisions for cognitive bias, emotional reasoning, missing evidence, and poor framing.",
     "inspired_by": "Thinking, Fast and Slow",
-    "path": "skills/thinking/decision-bias-auditor/SKILL.md"
+    "path": "skills/thinking/decision-bias-auditor/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/thinking/decision-bias-auditor/skill.json",
+    "production_ready": true
   },
   {
     "name": "Persuasion Quality Auditor",
@@ -93,7 +126,10 @@
     "category": "marketing",
     "description": "Improve landing pages, offers, posts, and sales messages using ethical persuasion and clear proof.",
     "inspired_by": "Influence",
-    "path": "skills/marketing/persuasion-quality-auditor/SKILL.md"
+    "path": "skills/marketing/persuasion-quality-auditor/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/marketing/persuasion-quality-auditor/skill.json",
+    "production_ready": true
   },
   {
     "name": "Offer Context Designer",
@@ -101,7 +137,10 @@
     "category": "marketing",
     "description": "Design the context, opening, and pre-frame that makes an offer easier to understand and accept.",
     "inspired_by": "Pre-Suasion",
-    "path": "skills/marketing/offer-context-designer/SKILL.md"
+    "path": "skills/marketing/offer-context-designer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/marketing/offer-context-designer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Message Stickiness Enhancer",
@@ -109,7 +148,10 @@
     "category": "marketing",
     "description": "Turn vague ideas into simple, concrete, emotional, memorable messages.",
     "inspired_by": "Made to Stick",
-    "path": "skills/marketing/message-stickiness-enhancer/SKILL.md"
+    "path": "skills/marketing/message-stickiness-enhancer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/marketing/message-stickiness-enhancer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Shareability Scorer",
@@ -117,7 +159,10 @@
     "category": "content",
     "description": "Score and improve posts, reels, captions, and articles for practical value, emotional pull, and shareability.",
     "inspired_by": "Contagious",
-    "path": "skills/content/shareability-scorer/SKILL.md"
+    "path": "skills/content/shareability-scorer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/content/shareability-scorer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Negotiation Reply Coach",
@@ -125,7 +170,10 @@
     "category": "sales",
     "description": "Create calm, strategic, ethical replies for salary, client, vendor, and partnership negotiations.",
     "inspired_by": "Never Split the Difference",
-    "path": "skills/sales/negotiation-reply-coach/SKILL.md"
+    "path": "skills/sales/negotiation-reply-coach/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/sales/negotiation-reply-coach/skill.json",
+    "production_ready": true
   },
   {
     "name": "B2B Insight Seller",
@@ -133,7 +181,10 @@
     "category": "sales",
     "description": "Create B2B sales messages that teach buyers a useful insight instead of listing services.",
     "inspired_by": "The Challenger Sale",
-    "path": "skills/sales/b2b-insight-seller/SKILL.md"
+    "path": "skills/sales/b2b-insight-seller/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/sales/b2b-insight-seller/skill.json",
+    "production_ready": true
   },
   {
     "name": "Discovery Question Generator",
@@ -141,7 +192,10 @@
     "category": "sales",
     "description": "Generate sales discovery questions and call flows that uncover context, pain, consequences, and value.",
     "inspired_by": "SPIN Selling",
-    "path": "skills/sales/discovery-question-generator/SKILL.md"
+    "path": "skills/sales/discovery-question-generator/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/sales/discovery-question-generator/skill.json",
+    "production_ready": true
   },
   {
     "name": "Category Positioning Coach",
@@ -149,7 +203,10 @@
     "category": "strategy",
     "description": "Clarify a product or service category, alternative, differentiation, tagline, and homepage positioning.",
     "inspired_by": "Positioning",
-    "path": "skills/strategy/category-positioning-coach/SKILL.md"
+    "path": "skills/strategy/category-positioning-coach/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/strategy/category-positioning-coach/skill.json",
+    "production_ready": true
   },
   {
     "name": "Beachhead Market Finder",
@@ -157,7 +214,10 @@
     "category": "startup",
     "description": "Choose the best initial niche by scoring urgency, ability to pay, access, and reference value.",
     "inspired_by": "Crossing the Chasm",
-    "path": "skills/startup/beachhead-market-finder/SKILL.md"
+    "path": "skills/startup/beachhead-market-finder/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/startup/beachhead-market-finder/skill.json",
+    "production_ready": true
   },
   {
     "name": "Differentiation Map Builder",
@@ -165,7 +225,10 @@
     "category": "strategy",
     "description": "Find a stronger market angle by identifying what to remove, reduce, raise, and create.",
     "inspired_by": "Blue Ocean Strategy",
-    "path": "skills/strategy/differentiation-map-builder/SKILL.md"
+    "path": "skills/strategy/differentiation-map-builder/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/strategy/differentiation-map-builder/skill.json",
+    "production_ready": true
   },
   {
     "name": "Customer Discovery Interviewer",
@@ -173,7 +236,10 @@
     "category": "startup",
     "description": "Create neutral, evidence-based customer interview scripts that avoid false validation.",
     "inspired_by": "The Mom Test",
-    "path": "skills/startup/customer-discovery-interviewer/SKILL.md"
+    "path": "skills/startup/customer-discovery-interviewer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/startup/customer-discovery-interviewer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Retention Loop Designer",
@@ -181,7 +247,10 @@
     "category": "product",
     "description": "Design ethical product retention loops around triggers, actions, rewards, investment, and re-engagement.",
     "inspired_by": "Hooked",
-    "path": "skills/product/retention-loop-designer/SKILL.md"
+    "path": "skills/product/retention-loop-designer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/product/retention-loop-designer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Usability Problem Finder",
@@ -189,7 +258,10 @@
     "category": "ux",
     "description": "Review product screens, flows, or descriptions for affordance, feedback, errors, and mental-model mismatches.",
     "inspired_by": "The Design of Everyday Things",
-    "path": "skills/ux/usability-problem-finder/SKILL.md"
+    "path": "skills/ux/usability-problem-finder/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/ux/usability-problem-finder/skill.json",
+    "production_ready": true
   },
   {
     "name": "Website Clarity Auditor",
@@ -197,7 +269,10 @@
     "category": "ux",
     "description": "Audit a website or landing page for first-impression clarity, navigation, trust, CTA, and conversion friction.",
     "inspired_by": "Don\u2019t Make Me Think",
-    "path": "skills/ux/website-clarity-auditor/SKILL.md"
+    "path": "skills/ux/website-clarity-auditor/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/ux/website-clarity-auditor/skill.json",
+    "production_ready": true
   },
   {
     "name": "Money Behavior Coach",
@@ -205,7 +280,10 @@
     "category": "finance",
     "description": "Help users think clearly about financial choices by separating math, emotion, risk, and time horizon.",
     "inspired_by": "The Psychology of Money",
-    "path": "skills/finance/money-behavior-coach/SKILL.md"
+    "path": "skills/finance/money-behavior-coach/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/finance/money-behavior-coach/skill.json",
+    "production_ready": true
   },
   {
     "name": "Asset vs Expense Coach",
@@ -213,7 +291,10 @@
     "category": "finance",
     "description": "Classify purchases or investments as asset, liability, expense, or strategic investment and show cash-flow impact.",
     "inspired_by": "Rich Dad Poor Dad",
-    "path": "skills/finance/asset-expense-coach/SKILL.md"
+    "path": "skills/finance/asset-expense-coach/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/finance/asset-expense-coach/skill.json",
+    "production_ready": true
   },
   {
     "name": "Feedback Reframer",
@@ -221,7 +302,10 @@
     "category": "growth",
     "description": "Turn criticism, rejection, or performance feedback into useful learning signals and improvement actions.",
     "inspired_by": "Mindset",
-    "path": "skills/growth/feedback-reframer/SKILL.md"
+    "path": "skills/growth/feedback-reframer/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/growth/feedback-reframer/skill.json",
+    "production_ready": true
   },
   {
     "name": "Long-Term Goal Coach",
@@ -229,7 +313,10 @@
     "category": "growth",
     "description": "Convert long-term ambitions into skill milestones, deliberate practice, tracking, and resilience plans.",
     "inspired_by": "Grit",
-    "path": "skills/growth/long-term-goal-coach/SKILL.md"
+    "path": "skills/growth/long-term-goal-coach/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/growth/long-term-goal-coach/skill.json",
+    "production_ready": true
   },
   {
     "name": "Resistance Breaker",
@@ -237,6 +324,9 @@
     "category": "growth",
     "description": "Diagnose procrastination, perfectionism, avoidance, and fear; create a 10-minute starting action.",
     "inspired_by": "The War of Art",
-    "path": "skills/growth/resistance-breaker/SKILL.md"
+    "path": "skills/growth/resistance-breaker/SKILL.md",
+    "version": "1.1.0",
+    "manifest": "skills/growth/resistance-breaker/skill.json",
+    "production_ready": true
   }
 ]

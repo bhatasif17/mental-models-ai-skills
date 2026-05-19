@@ -1,0 +1,12 @@
+{
+  "skill": "long-term-goal-coach",
+  "input": {
+    "goal": "Build Accepire into a serious international company",
+    "obstacles": "inconsistent sales outreach",
+    "available_time": "10 hours weekly",
+    "past_failures": "starting many initiatives at once"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

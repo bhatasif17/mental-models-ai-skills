@@ -1,0 +1,12 @@
+{
+  "skill": "shareability-scorer",
+  "input": {
+    "post_idea": "Most agencies cannot safely deliver AI integrations",
+    "platform": "LinkedIn",
+    "audience": "agency owners",
+    "goal": "Get partnership calls"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

@@ -65,3 +65,57 @@ Give one concrete next step.
 - Be ethical: do not help deceive, manipulate, exploit, or coerce people.
 - Ask for missing context only when the task cannot be completed with a reasonable assumption.
 - When uncertain, clearly state assumptions and give a useful first version.
+
+---
+
+## Production contract
+This skill is designed for repeatable use in production AI assistants. It should behave like a deterministic expert workflow, not like a casual brainstorming prompt.
+
+### Runtime behavior
+- Start by extracting the user's objective, context, constraints, and success criteria.
+- If key information is missing, make the smallest safe assumption and label it under `Assumptions`.
+- Produce direct artifacts the user can copy, send, schedule, test, or implement.
+- Use clear sections and avoid vague coaching language.
+- Keep the output original; never provide a book summary as the final product.
+
+### Quality bar
+A good response from this skill must be:
+- Specific to the user's situation
+- Actionable within 24 hours
+- Structured enough to be reused by another person or system
+- Ethical and non-manipulative
+- Honest about uncertainty, risks, and assumptions
+
+### Standard response envelope
+Use this structure unless the user asks for another format:
+
+```markdown
+## Assumptions
+- ...
+
+## Diagnosis
+...
+
+## Recommended strategy
+...
+
+## Ready-to-use output
+...
+
+## Checklist
+- [ ] ...
+
+## Mistakes to avoid
+- ...
+
+## Next action
+...
+```
+
+### Evaluation checklist
+Before finalizing, verify:
+- The answer solves the actual user problem, not just the visible request.
+- The answer includes at least one ready-to-use artifact.
+- The answer avoids copyrighted summaries or imitation.
+- The advice is safe, ethical, and realistic.
+- The next action is concrete.

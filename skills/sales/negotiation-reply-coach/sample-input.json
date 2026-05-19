@@ -1,0 +1,12 @@
+{
+  "skill": "negotiation-reply-coach",
+  "input": {
+    "situation": "Client says the price is too high",
+    "other_person_message": "Can you do it for half the price?",
+    "desired_outcome": "Protect margin",
+    "relationship_importance": "high"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}

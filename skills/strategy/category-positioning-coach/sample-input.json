@@ -1,0 +1,12 @@
+{
+  "skill": "category-positioning-coach",
+  "input": {
+    "product": "AgentGuard",
+    "audience": "SaaS teams exposing APIs to AI agents",
+    "competitors": "generic API security tools",
+    "goal": "Sharpen positioning"
+  },
+  "constraints": {
+    "tone": "practical, concise, production-ready"
+  }
+}
