@@ -1,0 +1,180 @@
+{
+  "productivity": [
+    {
+      "name": "Habit Architect",
+      "slug": "habit-architect",
+      "description": "Build tiny, repeatable habit systems from user goals, routines, friction points, and recovery needs."
+    },
+    {
+      "name": "Life OS Planner",
+      "slug": "life-os-planner",
+      "description": "Convert roles, responsibilities, values, and goals into a weekly personal operating system."
+    },
+    {
+      "name": "Focus Block Designer",
+      "slug": "focus-block-designer",
+      "description": "Design realistic deep-work schedules around energy, distractions, deadlines, and shallow-work batching."
+    },
+    {
+      "name": "Chaos-to-Action Processor",
+      "slug": "chaos-to-action-processor",
+      "description": "Turn brain dumps, messy notes, or emails into next actions, projects, waiting items, and scheduled work."
+    }
+  ],
+  "communication": [
+    {
+      "name": "Human Message Rewriter",
+      "slug": "human-message-rewriter",
+      "description": "Rewrite difficult messages so they are clear, warm, respectful, and more likely to get a useful response."
+    }
+  ],
+  "operations": [
+    {
+      "name": "Automation Opportunity Finder",
+      "slug": "automation-opportunity-finder",
+      "description": "Audit recurring work and identify what to eliminate, delegate, automate, or systemize."
+    },
+    {
+      "name": "SOP Builder",
+      "slug": "sop-builder",
+      "description": "Turn repeated business processes into clear SOPs, checklists, roles, and quality controls."
+    }
+  ],
+  "startup": [
+    {
+      "name": "MVP Experiment Designer",
+      "slug": "mvp-experiment-designer",
+      "description": "Design lean validation experiments for startup ideas before users overbuild."
+    },
+    {
+      "name": "Startup Advantage Analyzer",
+      "slug": "startup-advantage-analyzer",
+      "description": "Evaluate whether a startup idea has a real strategic edge or is just another product."
+    },
+    {
+      "name": "Beachhead Market Finder",
+      "slug": "beachhead-market-finder",
+      "description": "Choose the best initial niche by scoring urgency, ability to pay, access, and reference value."
+    },
+    {
+      "name": "Customer Discovery Interviewer",
+      "slug": "customer-discovery-interviewer",
+      "description": "Create neutral, evidence-based customer interview scripts that avoid false validation."
+    }
+  ],
+  "business": [
+    {
+      "name": "Business Health Diagnostic",
+      "slug": "business-health-diagnostic",
+      "description": "Diagnose whether a business is blocked by strategy, focus, people, execution, or market issues."
+    }
+  ],
+  "thinking": [
+    {
+      "name": "Decision Bias Auditor",
+      "slug": "decision-bias-auditor",
+      "description": "Audit important decisions for cognitive bias, emotional reasoning, missing evidence, and poor framing."
+    }
+  ],
+  "marketing": [
+    {
+      "name": "Persuasion Quality Auditor",
+      "slug": "persuasion-quality-auditor",
+      "description": "Improve landing pages, offers, posts, and sales messages using ethical persuasion and clear proof."
+    },
+    {
+      "name": "Offer Context Designer",
+      "slug": "offer-context-designer",
+      "description": "Design the context, opening, and pre-frame that makes an offer easier to understand and accept."
+    },
+    {
+      "name": "Message Stickiness Enhancer",
+      "slug": "message-stickiness-enhancer",
+      "description": "Turn vague ideas into simple, concrete, emotional, memorable messages."
+    }
+  ],
+  "content": [
+    {
+      "name": "Shareability Scorer",
+      "slug": "shareability-scorer",
+      "description": "Score and improve posts, reels, captions, and articles for practical value, emotional pull, and shareability."
+    }
+  ],
+  "sales": [
+    {
+      "name": "Negotiation Reply Coach",
+      "slug": "negotiation-reply-coach",
+      "description": "Create calm, strategic, ethical replies for salary, client, vendor, and partnership negotiations."
+    },
+    {
+      "name": "B2B Insight Seller",
+      "slug": "b2b-insight-seller",
+      "description": "Create B2B sales messages that teach buyers a useful insight instead of listing services."
+    },
+    {
+      "name": "Discovery Question Generator",
+      "slug": "discovery-question-generator",
+      "description": "Generate sales discovery questions and call flows that uncover context, pain, consequences, and value."
+    }
+  ],
+  "strategy": [
+    {
+      "name": "Category Positioning Coach",
+      "slug": "category-positioning-coach",
+      "description": "Clarify a product or service category, alternative, differentiation, tagline, and homepage positioning."
+    },
+    {
+      "name": "Differentiation Map Builder",
+      "slug": "differentiation-map-builder",
+      "description": "Find a stronger market angle by identifying what to remove, reduce, raise, and create."
+    }
+  ],
+  "product": [
+    {
+      "name": "Retention Loop Designer",
+      "slug": "retention-loop-designer",
+      "description": "Design ethical product retention loops around triggers, actions, rewards, investment, and re-engagement."
+    }
+  ],
+  "ux": [
+    {
+      "name": "Usability Problem Finder",
+      "slug": "usability-problem-finder",
+      "description": "Review product screens, flows, or descriptions for affordance, feedback, errors, and mental-model mismatches."
+    },
+    {
+      "name": "Website Clarity Auditor",
+      "slug": "website-clarity-auditor",
+      "description": "Audit a website or landing page for first-impression clarity, navigation, trust, CTA, and conversion friction."
+    }
+  ],
+  "finance": [
+    {
+      "name": "Money Behavior Coach",
+      "slug": "money-behavior-coach",
+      "description": "Help users think clearly about financial choices by separating math, emotion, risk, and time horizon."
+    },
+    {
+      "name": "Asset vs Expense Coach",
+      "slug": "asset-expense-coach",
+      "description": "Classify purchases or investments as asset, liability, expense, or strategic investment and show cash-flow impact."
+    }
+  ],
+  "growth": [
+    {
+      "name": "Feedback Reframer",
+      "slug": "feedback-reframer",
+      "description": "Turn criticism, rejection, or performance feedback into useful learning signals and improvement actions."
+    },
+    {
+      "name": "Long-Term Goal Coach",
+      "slug": "long-term-goal-coach",
+      "description": "Convert long-term ambitions into skill milestones, deliberate practice, tracking, and resilience plans."
+    },
+    {
+      "name": "Resistance Breaker",
+      "slug": "resistance-breaker",
+      "description": "Diagnose procrastination, perfectionism, avoidance, and fear; create a 10-minute starting action."
+    }
+  ]
+}
